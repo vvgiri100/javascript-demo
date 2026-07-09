@@ -1,2 +1,8 @@
 connec to git 
 test
+
+
+vikas@vikasgiris-MacBook-Pro-2 JavaScript % git remote -v
+JavaScript      https://github.com/vvgiri100/javascript-demo.git (fetch)
+JavaScript      https://github.com/vvgiri100/javascript-demo.git (push)
+
